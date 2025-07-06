@@ -48,4 +48,5 @@ How much of total procurement is dependent on the top vendors?
 
 Does purchasing in bulk reduce the unit price, and what is the optimal purchase volume for cost savings?
 
-How much capital is locked in unsold inventory per vendor and which vendors contribute the most to it?
+How much capital is locked in unsold inventory per vendor and which vendors contribute the most to it?![Snapshot of the dashboard](https://github.com/user-attachments/assets/4b441285-2582-4d06-8191-8df27565a434)
+
